@@ -1,1 +1,11 @@
-{ "users": {}, "group": {}, "chats": {}, "database": {}, "game": {}, "settings": {}, "donate": {}, "others": {}, "sticker": {} }
+{
+  "users": {},
+  "group": {},
+  "chats": {},
+  "database": {},
+  "game": {},
+  "settings": {},
+  "donate": {},
+  "others": {},
+  "sticker": {}
+}
