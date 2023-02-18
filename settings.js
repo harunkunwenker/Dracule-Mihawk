@@ -12,7 +12,7 @@ const chalk = require('chalk')
 global.ownerNumber = ['6285602502254','6285602502254'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
 global.Rowner = '6285602502254' //Owner Utama
 global.ownerName = 'BOTWEA' //Ganti Jadi Namamu
-global.packname = 'Subscribe YT' //Ganti Jadi Nama Botmu
+global.packname = 'BOTWEA' //Ganti Jadi Nama Botmu
 global.author = '⸙⃟Hаȑยп̴¹̴ི⃭¹〆⁩•⁩' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
@@ -31,10 +31,10 @@ global.fiturError = 'Fitur Sedang Error ❎'
 
 //===> BOT SETTINGS
 global.autobackup = true //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
-global.autoread = true //Ganti ke false kalau gamau smua chat di read sama bot
+global.autoread = false //Ganti ke false kalau gamau smua chat di read sama bot
 global.autotyping = true //Ganti ke false kalau gamau auto mengetik kalau ada chat masuk ke wa bot
 global.available = false //Ganti ke true kalau pengen bot nya keliatan online terus
-global.autolevelup = true //Ganti ke false klo gamau ada peningkatan exp user mu
+global.autolevelup = false //Ganti ke false klo gamau ada peningkatan exp user mu
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
@@ -70,7 +70,7 @@ global.tips1 = 'Gunakan Jeda 3 Detik Agar Bot Tidak Mati Akibat Spam 🚀'
 global.tips2 = 'Jika Kamu Ingin Bermain RPG Hubungi Admin Untuk Mengaktifkan Fitur RPG ⚔️'
 global.tips3 = 'Jika Kamu Ingin Request/Repport Fitur, Cukup Ketik *.req/lapor Laporannya* 👮'
 global.tips4 = 'Jika Kamu Sedang Gabut, Kamu Bisa Memainkan Fitur Game Yang Tersedia 🕹️'
-global.tips5 = 'Jika Kamu Ingin Mendownload Video Youtube, Cukup Ketik *.ytmp4 <link>* 📥'
+global.tips5 = 'Jika Kamu Ingin Mendownload Video Youtube, Cukup Ketik *.ytmp4 linknya* 📥'
 
 //===> UBAH EMOJI RPG DISINI
 global.emot = {
