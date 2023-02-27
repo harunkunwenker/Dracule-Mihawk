@@ -11,7 +11,7 @@ const chalk = require('chalk')
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
 global.ownerNumber = ['6285602502254','6285602502254'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
 global.Rowner = '6285602502254' //Owner Utama
-global.ownerName = 'BOTWEA' //Ganti Jadi Namamu
+global.ownerName = 'TeamImouto' //Ganti Jadi Namamu
 global.packname = 'BOTWEA' //Ganti Jadi Nama Botmu
 global.author = '⸙⃟Hаȑยп̴¹̴ི⃭¹〆⁩•⁩' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
