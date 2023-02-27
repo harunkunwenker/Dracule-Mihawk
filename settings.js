@@ -38,14 +38,14 @@ global.autolevelup = false //Ganti ke false klo gamau ada peningkatan exp user m
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
-admin: '*Kamu Admin?🤨*',
-botAdmin: '*Aku Bukan Admin😝*',
-botOwner: '*Kamu Bukan Onnichanku😖*',
-group: '*Khusus Group Kak😪*',
-private: '*Khusus Private Chat Kak😪*',
-wait: '*Tunggu Sebentar Kak Lagi Diproses🙇‍♀️...*',
-done: '*Sudah Jadi Kak💁‍♀️*',
-prem: '*Khusus User Premium Kak😋*'
+admin: '*Kamu Bukan Admin!*',
+botAdmin: '*Bot Bukan Admin!*',
+botOwner: '*Kamu Bukan Ownerku!*',
+group: '*Khusus Group Chat!*',
+private: '*Khusus Private Chat!*',
+wait: '*Tunggu Sebentar Lagi Diproses....*',
+done: '*Selesai!*',
+prem: '*Khusus User Premium!*'
 }
 
 //===> KALAU GANTI FOTO GANTI JUGA NAMA NYA
@@ -57,7 +57,7 @@ global.doc = fs.readFileSync('./media/ichi.pdf')
 //===> UCAPAN WELCOME AND LEAVE
 global.quotes = {
 welcome: '*Melanggar Rules = Abu-abu*',
-leave: '*Beban Grup Berkurang* :v'
+leave: '*Beban Group Berkurang* :v'
 }
 
 //===> QUOTES SETIAP MENU
