@@ -11,9 +11,9 @@ const chalk = require('chalk')
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
 global.ownerNumber = ['6285602502254','6285602502254'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
 global.Rowner = '6285602502254' //Owner Utama
-global.ownerName = 'TeamImouto' //Ganti Jadi Namamu
-global.packname = 'BOTWEA' //Ganti Jadi Nama Botmu
-global.author = '⸙⃟Hаȑยп̴¹̴ི⃭¹〆⁩•⁩' //Ganti Jadi Namamu
+global.ownerName = 'ᴛᴇᴀᴍɪᴍᴏᴜᴛᴏ' //Ganti Jadi Namamu
+global.packname = 'ʙᴏᴛᴡᴇᴀ' //Ganti Jadi Nama Botmu
+global.author = 'ᴛᴇᴀᴍɪᴍᴏᴜᴛᴏ⁩' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://waifuplay.app/' //Ganti Jadi Bebas Web Sosmed Mu
@@ -56,8 +56,8 @@ global.doc = fs.readFileSync('./media/ichi.pdf')
 
 //===> UCAPAN WELCOME AND LEAVE
 global.quotes = {
-welcome: 'Semoga Kamu Betah Berada Disini Dan Jangan Lupa Untuk Selalu Mengikuti Rules Yang Ada',
-leave: 'Semoga Amal Ibadahmu Diterima Disisi-Nya'
+welcome: '@user 👋🤠, *Welcome To @group* @desc',
+leave: '*Bye Bye* @user *Beban Grup Berkurang* :v'
 }
 
 //===> QUOTES SETIAP MENU
