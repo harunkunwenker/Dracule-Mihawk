@@ -56,7 +56,7 @@ global.doc = fs.readFileSync('./media/ichi.pdf')
 
 //===> UCAPAN WELCOME AND LEAVE
 global.quotes = {
-welcome: '@user 👋🤠, *Welcome To @group* @desc',
+welcome: '@user 👋🤠, *Welcome To @group*',
 leave: '*Bye Bye* @user *Beban Grup Berkurang* :v'
 }
 
