@@ -17,7 +17,7 @@ global.author = 'ᴛᴇᴀᴍɪᴍᴏᴜᴛᴏ⁩' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://waifuplay.app/' //Ganti Jadi Bebas Web Sosmed Mu
-global.sosmed = 'https://www.instagram.com/waifukusayu' //Ganti Jadi Web Sosmed Mu
+global.sosmed = 'https://github.com/harunkunwenker?tab=repositories' //Ganti Jadi Web Sosmed Mu
 
 //====> SARAN GAUSAH DIGANTI SIH DAH PAS SEMUA
 global.limitAwal = {
@@ -38,14 +38,14 @@ global.autolevelup = false //Ganti ke false klo gamau ada peningkatan exp user m
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
-admin: '*Kamu Bukan Admin!*',
-botAdmin: '*Bot Bukan Admin!*',
-botOwner: '*Kamu Bukan Ownerku!*',
-group: '*Khusus Group!*',
-private: '*Khusus Private Chat!*',
-wait: '*Tunggu Sebentar.......*',
-done: '*Done!*',
-prem: '*Khusus User Premium*'
+admin: '*Kamu Admin?🤨*',
+botAdmin: '*Aku Bukan Admin😝*',
+botOwner: '*Kamu Bukan Onnichanku😖*',
+group: '*Khusus Group Kak😪*',
+private: '*Khusus Private Chat Kak😪*',
+wait: '*Tunggu Sebentar Kak Lagi Diproses🙇‍♀️...*',
+done: '*Sudah Jadi Kak💁‍♀️*',
+prem: '*Khusus User Premium Kak😋*'
 }
 
 //===> KALAU GANTI FOTO GANTI JUGA NAMA NYA
@@ -56,8 +56,8 @@ global.doc = fs.readFileSync('./media/ichi.pdf')
 
 //===> UCAPAN WELCOME AND LEAVE
 global.quotes = {
-welcome: '@user 👋🤠, *Welcome To @group*',
-leave: '*Bye Bye* @user *Beban Grup Berkurang* :v'
+welcome: '*Melanggar Rules = Abu-abu*',
+leave: '*Beban Grup Berkurang* :v'
 }
 
 //===> QUOTES SETIAP MENU
